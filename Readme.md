@@ -29,5 +29,5 @@ Hello everyone <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs
 - Hindi
 
 ## <img src="https://c.tenor.com/6ceOmdT7SHkAAAAi/emoji-emojis.gif" width = 30px> Here is the link for my Linkedin <img src="https://c.tenor.com/6ceOmdT7SHkAAAAi/emoji-emojis.gif" width = 30px>
-[<img src="https://c.tenor.com/kzQoUQSRKtwAAAAd/good-smile.gif" width = 200px height = 100px>](https://www.linkedin.com/in/tanmoy-mondal-399561220/)
+[<img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width = 100px height = 100px>](https://www.linkedin.com/in/tanmoy-mondal-399561220/)
 
