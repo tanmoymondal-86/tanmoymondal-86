@@ -14,7 +14,7 @@ Hello everyone <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs
 
 <img src="https://img.icons8.com/bubbles/100/000000/kolkata.png"/>
 
-## <img src="https://c.tenor.com/0PZ6_T-ejaUAAAAi/diamond-shine.gif" width = 30px> The skills that I am learning
+## <img src="https://c.tenor.com/0PZ6_T-ejaUAAAAi/diamond-shine.gif" width = 30px> Skills that I am learning
 | S.No. | Skill |
 |---|---|
 |1.|C|
