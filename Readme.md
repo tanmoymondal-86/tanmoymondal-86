@@ -23,7 +23,7 @@ Hello everyone <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs
 ## <img src="https://c.tenor.com/0PZ6_T-ejaUAAAAi/diamond-shine.gif" width = 30px> Courses
 1. Coursera
 
-## <img src="https://c.tenor.com/0PZ6_T-ejaUAAAAi/diamond-shine.gif" width = 30px> Language
+## <img src="https://c.tenor.com/0PZ6_T-ejaUAAAAi/diamond-shine.gif" width = 30px> Language <img src = "https://monophy.com/media/THksdFc9bFRAQcIc13/monophy.gif" width = 70px>
 - English
 - Bengali
 - Hindi
