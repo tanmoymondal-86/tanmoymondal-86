@@ -19,6 +19,7 @@ Hello everyone <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs
 |---|---|
 |1.|C|
 |2.|C++|
+|3.|Python|
 
 ## <img src="https://c.tenor.com/0PZ6_T-ejaUAAAAi/diamond-shine.gif" width = 30px> Courses
 1. Coursera
