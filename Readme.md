@@ -1,5 +1,5 @@
 # Introduction <img src="https://media.giphy.com/media/fUXZfIDUl8K7lJJ9KK/giphy.gif" width = 50px>
-Hello everyone <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width = 20px>. I am Tanmoy Mondal and I am from NSEC.
+Hello everyone <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width = 20px>. My name is Tanmoy Mondal and I am from NSEC.
 
 ## <img src="https://c.tenor.com/0PZ6_T-ejaUAAAAi/diamond-shine.gif" width = 30px> Basic Details <img align = "right" src = "https://miro.medium.com/max/875/1*AnRu_W51PMUomN6bIXKMAw.gif" width = 250px>
 **Name**- *Tanmoy Mondal*
