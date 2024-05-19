@@ -36,16 +36,19 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/embed/wwg1suUiTbCY8H8vIA"  />
 
-###
+
 
 <div align="left">
+  <a href="https://discordapp.com/users/334730693789876224" target="blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="tanmoy.mondal2002@gmail.com" target="_blank">
+  </a>
+  <a href="mailto:tanmoy.mondal2002@gmail.com" target="blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+  <a href="https://www.linkedin.com/in/tanmoy-mondal-399561220/" target="blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ### 
